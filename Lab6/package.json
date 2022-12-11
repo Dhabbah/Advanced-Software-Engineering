@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/cjdw94/CS-5551-Tutorial6#readme",
   "dependencies": {
-    "express": "^4.16.4",
+    "express": "^4.18.2",
     "fs": "0.0.1-security",
     "lodash": "^4.17.11",
     "yargs": "^13.2.2"
